@@ -27,8 +27,8 @@ The second phase involved extracting manageable features from the cleaned, conti
 * Baseline Classification: The extracted features were evaluated using baseline models, specifically a Support Vector Machine (SVM) with a linear kernel and a K-Nearest Neighbor (KNN) classifier (K=5).
 
 ## Repository Structure
-* /Phase1_Preprocessing: Contains the project report detailing the theoretical foundations and EEGLAB preprocessing steps.
-* /Phase2_Classification: Contains the MATLAB scripts for feature extraction and classification, alongside the final project report.
+* Phase1_Preprocessing: Contains the project report detailing the theoretical foundations and EEGLAB preprocessing steps.
+* Phase2_Classification: Contains the MATLAB scripts for feature extraction and classification, alongside the final project report.
 
 ## Documentation
 Detailed methodologies, mathematical formulations, and visual outputs (including frequency spectrums and ICA dipole locations) can be found in the attached PDF reports within each phase's directory.
